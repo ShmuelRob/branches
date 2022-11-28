@@ -10,4 +10,6 @@ export function setupCounter(element: HTMLButtonElement) {
   
   // some changes
 
+  // feature 1
+
 }
