@@ -2,6 +2,8 @@ export function setupCounter(element: HTMLButtonElement) {
   let counter = 0
   const setCounter = (count: number) => {
     counter = count
+    let x = 5;
+    console.log(x);
     let y = 0
     console.log(y);
     
